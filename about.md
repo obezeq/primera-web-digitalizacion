@@ -1,6 +1,10 @@
 # 👋 Acerca de Nosotros
 
-¡Bienvenidos a La Agencia de Viajes!
+- [Home](https://obezeq.github.io/primera-web-digitalizacion/)
+- [Sobre nosotros](https://obezeq.github.io/primera-web-digitalizacion/about)
+- [Contacto](https://obezeq.github.io/primera-web-digitalizacion/contact)
+
+### ¡Bienvenidos a La Agencia de Viajes!
 
 En La Agencia de Viajes, somos apasionados por ayudar a las personas a descubrir el mundo. Fundada en 2024, nuestra misión es ofrecer experiencias de viaje únicas y memorables que se adapten a los deseos y necesidades de cada viajero.
 
