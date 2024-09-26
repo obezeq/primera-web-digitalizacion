@@ -2,7 +2,7 @@
 ### Tu agencia de viajes de confianza
 
 
-[Home]([/index.md](https://obezeq.github.io/primera-web-digitalizacion/)
+[Home](https://obezeq.github.io/primera-web-digitalizacion/)
 [Sobre nosotros](https://obezeq.github.io/primera-web-digitalizacion/about.md)
 [Contactoo](https://obezeq.github.io/primera-web-digitalizacion/contact.md)
 
