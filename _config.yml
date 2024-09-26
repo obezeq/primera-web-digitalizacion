@@ -1,0 +1,14 @@
+title: Agencia de viajes
+description: La mejor agencia de viajes digitalizada
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
+plugins:
+  - jekyll-default-layout
+
+# Navigation
+# List links that should appear in the site sidebar here
+navigation:
+  - text: Pages
+    internal: true
+    url: ./pages
