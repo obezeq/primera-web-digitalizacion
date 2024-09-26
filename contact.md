@@ -2,6 +2,10 @@
 
 # ☎️ Contáctanos
 
+- [Home](https://obezeq.github.io/primera-web-digitalizacion/)
+- [Sobre nosotros](https://obezeq.github.io/primera-web-digitalizacion/about)
+- [Contacto](https://obezeq.github.io/primera-web-digitalizacion/contact)
+
 ¡Nos encantaría saber de ti! Si tienes alguna pregunta, comentario o necesitas ayuda para planificar tu próximo viaje, no dudes en ponerte en contacto con nosotros.
 
 ## Información de Contacto
