@@ -1,8 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Your Site Title</title>
+    <style>
+        nav {
+            background-color: #333;
+            overflow: hidden;
+        }
+        nav a {
+            float: left;
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+        }
+        nav a:hover {
+            background-color: #ddd;
+            color: black;
+        }
+    </style>
+</head>
+<body>
+
+<nav>
+    <a href="index.md">Home</a>
+    <a href="about.md">About</a>
+    <a href="contact.md">Contact</a>
+</nav>
+
 # Agencia de viajes
 ### Tu agencia de viajes de confianza
-
-
-
 
 ![La mejor agencia de viajes](https://obezeq.github.io/primera-web-digitalizacion/assets/avion.png)
 
